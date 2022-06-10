@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Django~=3.2.13
-=======
-Django~=3.2.13
->>>>>>> a048a4283f4763c9837ba601deea8dbcedb7d36e
